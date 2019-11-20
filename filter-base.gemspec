@@ -29,5 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "sequel"
   spec.add_development_dependency "rspec"
 
-  spec.add_dependency 'rails', '~> 4.2', '>= 4.2.11.1'
+  spec.add_dependency 'rails', '~> 4.2', '>= 4.2'
 end
